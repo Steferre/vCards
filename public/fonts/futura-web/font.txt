@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "futurabookttregular";
+  src: url('../fonts/FuturaBookTT-Regular.eot');
+  src: url('../fonts/FuturaBookTT-Regular.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/FuturaBookTT-Regular.woff') format('woff'), url('../fonts/FuturaBookTT-Regular.ttf') format('truetype'), url('../fonts/FuturaBookTT-Regular.svg#FuturaBookTT-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "futurademittregular";
+  src: url("../fonts/futurademic-webfont.eot");
+  src: url("../fonts/futurademic-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../fonts/futurademic-webfont.woff") format("woff"), url("../fonts/futurademic-webfont.ttf") format("truetype"), url("../fonts/futurademic-webfont.svg#futurademittregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "futuralightttregular";
+  src: url("../fonts/futuralightc-webfont.eot");
+  src: url("../fonts/futuralightc-webfontd41d.eot?#iefix") format("embedded-opentype"), url("../fonts/futuralightc-webfont.woff") format("woff"), url("../fonts/futuralightc-webfont.ttf") format("truetype"), url("../fonts/futuralightc-webfont.svg#futuralightttregular") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
